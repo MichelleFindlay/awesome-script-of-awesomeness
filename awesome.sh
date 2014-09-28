@@ -1,15 +1,7 @@
 #!/bin/bash
-# A menu driven shell script sample template 
-## ----------------------------------
-# Step #1: Define variables
+
 # ----------------------------------
-EDITOR=nano
-PASSWD=/etc/passwd
-RED='\033[0;41;30m'
-STD='\033[0;0;39m'
- 
-# ----------------------------------
-# Step #2: User defined function
+# Step #2: Functions
 # ----------------------------------
 pause(){
   read -p "Press [Enter] key to continue..." fackEnterKey
