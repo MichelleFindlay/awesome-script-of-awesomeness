@@ -6,7 +6,7 @@ while [  $COUNTER -lt 10 ]; do
 clear
 echo Awesome Script of Awesomeness for Redhat/CentOS Servers 
 echo
-echo Version 0.1
+echo Version 0.1b
 echo See change log at: https://github.com/MichaelFindlay/script-of-awesomeness
 echo Source available at: https://github.com/MichaelFindlay/script-of-awesomeness
 echo
