@@ -1,0 +1,31 @@
+Awesome Script of Awesomeness for Redhat/CentOS Servers
+
+Version 0.1
+Source available at: https://github.com/MichaelFindlay/script-of-awesomeness
+
+2012-12-29 Michael J K Findlay  <mf@g33k.ws>
+
+* First release, added the following features:
+ - Check Raid
+ - Check HDD Space
+ - Free Memory
+ - Retrieve Plesk 9 Password
+ - Retrieve Plesk 10 Password
+ - Repair Plesk Database
+ - Qmail Stats
+ - Postfix Stats
+ - Remove Extra Plesk Languages
+ - Show Command History
+ - Fix Health Monitor
+ - Remove Dr Web
+ - Switch to Qmail
+ - Switch to Postfix
+ - Show ALL listening TCP/UDP Ports
+ - Reconfigure all domains (Plesk 9)
+ - Reconfigure all domains (Plesk 10)
+ - Stop Firewall
+ - Start Firewall
+ - Show Directory Usage
+ - Services Management
+ - Exit Option
+ - Fixed 404 Error, Source and ChangeLog Address
