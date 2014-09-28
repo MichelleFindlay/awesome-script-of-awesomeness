@@ -10,7 +10,7 @@ Change Log -
 https://raw.githubusercontent.com/MichaelFindlay/script-of-awesomeness/master/awesome.changelog.txt
 
 How to run -
-wget https://raw.githubusercontent.com/MichaelFindlay/script-of-awesomeness/master/awesome.sh && sh awesome.sh && rm awesome.sh
+wget https://raw.githubusercontent.com/MichaelFindlay/script-of-awesomeness/master/awesome.sh && sh awesome.sh && rm -f awesome.sh
 
 Breakdown of what it is doing -
 Downloads the shell script > runs it > closes > removes it
