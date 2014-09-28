@@ -44,7 +44,7 @@ show_menus() {
 	echo "8. Remove Dr Web		13. Start IPv4 Firewall"
 	echo "9. Remove Extra Languages	14. Stop IPv4 Firewall"
 	echo "10. Show Command History	15. Start IPv6 Firewall"
-	echo "11. Reconfigure all domains	16. Stop IPv7 Firewall"
+	echo "11. Reconfigure all domains	16. Stop IPv6 Firewall"
 	echo ""
 
 	echo "Services Management		Mail Transport Management"
