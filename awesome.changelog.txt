@@ -1,12 +1,15 @@
 Awesome Script of Awesomeness for Redhat/CentOS Servers
 
-Version 0.1
-Source available at: https://raw.githubusercontent.com/MichaelFindlay/script-of-awesomeness/master/awesome.sh
+Version 0.1c
+Source available at: https://github.com/MichaelFindlay/awesome-script-of-awesomeness/blob/master/awesome.sh
 
 2014-09-28 Michael J K Findlay  <mf@g33k.ws>
-* First release, added the following features:
+* Updated due to outdated features and upload with MIT license.
  - Released under the MIT license
- - Updated the URL's within the script and change log to github.
+ - Updated the URL's within the script and change log to Github.
+ - Removed support for Plesk 9 as it is no longer maintained by Parallels.
+ - Updated the menu system to allow for more flexibility.
+ - Added support for IP Version 6 firewalls along with Dovecot features.
 
 2012-12-29 Michael J K Findlay  <mf@g33k.ws>
 * First release, added the following features:
