@@ -14,3 +14,5 @@ wget https://raw.githubusercontent.com/MichaelFindlay/script-of-awesomeness/mast
 
 Breakdown of what it is doing -
 Downloads the shell script > runs it > closes > removes it
+
+Disclaimer (This code has not been updated in 6 years, I cannot confirm this will work with newer editions of Plesk Servers)
